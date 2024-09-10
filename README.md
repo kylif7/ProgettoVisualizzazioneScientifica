@@ -1,6 +1,6 @@
 # ProgettoVisualizzazioneScientifica
 Il repository contiene il progetto del corso di Visualizzazione Scientifica del CdL triennale di Informatica.
-L'argomento trattato in questo progetto è l'impatto dei cambiamenti climatici sull'agricoltura, quindi tramite l'utilizzo di dati racconlti dal 1990 al 2024 andremo a fare un'analisi sull'argomento e ne trarremo le nostre conclusioni.
+L'argomento trattato in questo progetto è l'impatto dei cambiamenti climatici sull'agricoltura, tramite l'utilizzo di dati raccolti dal 1990 al 2024 andremo a fare un'analisi sull'argomento e trarremo alcune osservazioni.
 
 ### Contenuti
 All'interno del repository possiamo trovare:
