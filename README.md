@@ -8,4 +8,5 @@ All'interno del repository possiamo trovare:
 - La presentazione contente i grafici sia in formato pptx che in formato pdf
 - Il codice sorgente in phyton da cui sono stati ricavati i grafici
 
-Progetto di Mbaye Pape Salif matr. 03399A
+### Autore
+Progetto a cura di **Mbaye Pape Salif** matr. **03399A**
